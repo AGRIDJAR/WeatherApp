@@ -1264,3 +1264,4 @@ const Weather = () => {
 
 export default Weather;
 
+//npm run dev
